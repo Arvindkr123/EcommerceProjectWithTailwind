@@ -3,6 +3,7 @@ import Announce from '../components/Announce'
 import Navbar from '../components/Navbar.jsx'
 import SliderArrowLeftRight from '../components/SliderArrowLeftRight.jsx'
 import Categories from '../components/Categories'
+import Products from '../components/Products'
 
 const Home = () => {
   return (
@@ -10,7 +11,8 @@ const Home = () => {
       <Announce/>
       <Navbar />
       <SliderArrowLeftRight />
-      <Categories/>
+      <Categories />
+      <Products/>
     </div>
   )
 }
