@@ -10,7 +10,7 @@ const CategoryPage = () => {
         <div>
             <Announce />
             <Navbar></Navbar>
-            <div className='flex flex-col p-5 border-[5px] border-black'>
+            <div className='flex flex-col p-5'>
                 <h1 className='text-3xl'>Men's Cloth</h1>
                 <div className='flex items-center justify-between mt-3'>
                     <div className='flex'>

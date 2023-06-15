@@ -23,9 +23,9 @@ const ProductPage = () => {
                     <p className='mt-7 text-3xl'>Price : <b>$70</b></p>
                     <div className=' flex text-2xl mt-7 items-center'>
                         Colors
-                        <div className='hover:border-[#8a4af3]  bg-red-400 w-[3rem] h-[3rem] border-2 cursor-pointer ml-5 rounded-full'></div>
-                        <div className='hover:border-[#8a4af3]  bg-blue-400 w-[3rem] h-[3rem] border-2 cursor-pointer ml-5 rounded-full'></div>
-                        <div className='hover:border-[#8a4af3]  bg-yellow-400 w-[3rem] h-[3rem] border-2 cursor-pointer ml-5 rounded-full'></div>
+                        <div className='hover:border-[#8a4af3] bg-red-400 w-[3rem] h-[3rem] border-2 cursor-pointer ml-5 rounded-full'></div>
+                        <div className='hover:border-[#8a4af3] bg-blue-400 w-[3rem] h-[3rem] border-2 cursor-pointer ml-5 rounded-full'></div>
+                        <div className='hover:border-[#8a4af3] bg-yellow-400 w-[3rem] h-[3rem] border-2 cursor-pointer ml-5 rounded-full'></div>
                     </div>
                     <div className='mt-7 text-2xl '>
                         Size
