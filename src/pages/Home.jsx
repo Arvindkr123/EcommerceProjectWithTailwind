@@ -5,6 +5,7 @@ import SliderArrowLeftRight from '../components/SliderArrowLeftRight.jsx'
 import Categories from '../components/Categories'
 import Products from '../components/Products'
 import NewsLatter from '../components/NewsLatter'
+import Footer from '../components/Footer'
 
 const Home = () => {
   return (
@@ -14,7 +15,8 @@ const Home = () => {
       <SliderArrowLeftRight />
       <Categories />
       <Products/>
-      <NewsLatter/>
+      <NewsLatter />
+      <Footer/>
     </div>
   )
 }
