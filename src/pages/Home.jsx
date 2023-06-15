@@ -4,6 +4,7 @@ import Navbar from '../components/Navbar.jsx'
 import SliderArrowLeftRight from '../components/SliderArrowLeftRight.jsx'
 import Categories from '../components/Categories'
 import Products from '../components/Products'
+import NewsLatter from '../components/NewsLatter'
 
 const Home = () => {
   return (
@@ -13,6 +14,7 @@ const Home = () => {
       <SliderArrowLeftRight />
       <Categories />
       <Products/>
+      <NewsLatter/>
     </div>
   )
 }
